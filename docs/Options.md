@@ -173,7 +173,7 @@ File in `backgrounds/`
 <a href="#clockfontfamily">font-family</a>
 </td>
 <td align="center">string</td>
-<td align="center">RedHatDisplay</td>
+<td align="center">JetBrains Mono NL SemiBold</td>
 <td align="left">
 
 
@@ -236,7 +236,7 @@ File in `backgrounds/`
 <a href="#datefontfamily">font-family</a>
 </td>
 <td align="center">string</td>
-<td align="center">RedHatDisplay</td>
+<td align="center">JetBrains Mono NL SemiBold</td>
 <td align="left">
 
 
@@ -317,7 +317,7 @@ File in `backgrounds/`
 <a href="#lockmessagefontfamily">font-family</a>
 </td>
 <td align="center">string</td>
-<td align="center">RedHatDisplay</td>
+<td align="center">JetBrains Mono NL SemiBold</td>
 <td align="left">
 
 
@@ -560,7 +560,7 @@ File in `backgrounds/`
 <a href="#usernamefontfamily">font-family</a>
 </td>
 <td align="center">string</td>
-<td align="center">RedHatDisplay</td>
+<td align="center">JetBrains Mono NL SemiBold</td>
 <td align="left">
 
 
@@ -632,7 +632,7 @@ File in `backgrounds/`
 <a href="#passwordinputfontfamily">font-family</a>
 </td>
 <td align="center">string</td>
-<td align="center">RedHatDisplay</td>
+<td align="center">JetBrains Mono NL SemiBold</td>
 <td align="left">
 
 
@@ -884,7 +884,7 @@ File in `icons/`
 <a href="#loginbuttonfontfamily">font-family</a>
 </td>
 <td align="center">string</td>
-<td align="center">RedHatDisplay</td>
+<td align="center">JetBrains Mono NL SemiBold</td>
 <td align="left">
 
 
@@ -929,7 +929,7 @@ File in `icons/`
 <a href="#spinnerfontfamily">font-family</a>
 </td>
 <td align="center">string</td>
-<td align="center">RedHatDisplay</td>
+<td align="center">JetBrains Mono NL SemiBold</td>
 <td align="left">
 
 
@@ -992,7 +992,7 @@ File in `icons/`
 <a href="#warningmessagefontfamily">font-family</a>
 </td>
 <td align="center">string</td>
-<td align="center">RedHatDisplay</td>
+<td align="center">JetBrains Mono NL SemiBold</td>
 <td align="left">
 
 
@@ -1118,7 +1118,7 @@ File in `icons/`
 <a href="#menuareabuttonsfontfamily">font-family</a>
 </td>
 <td align="center">string</td>
-<td align="center">RedHatDisplay</td>
+<td align="center">JetBrains Mono NL SemiBold</td>
 <td align="left">
 
 
@@ -1235,7 +1235,7 @@ File in `icons/`
 <a href="#menuareapopupsfontfamily">font-family</a>
 </td>
 <td align="center">string</td>
-<td align="center">RedHatDisplay</td>
+<td align="center">JetBrains Mono NL SemiBold</td>
 <td align="left">
 
 
@@ -1946,7 +1946,7 @@ File in `icons/`
 <a href="#tooltipsfontfamily">font-family</a>
 </td>
 <td align="center">string</td>
-<td align="center">RedHatDisplay</td>
+<td align="center">JetBrains Mono NL SemiBold</td>
 <td align="left">
 
 
@@ -2455,7 +2455,7 @@ File in `backgrounds/`
 </tr>
 <tr>
 <td>Default value</td>
-<td>RedHatDisplay</td>
+<td>JetBrains Mono NL SemiBold</td>
 </tr>
 <tr>
 <td>Possible values</td>
@@ -2613,7 +2613,7 @@ File in `backgrounds/`
 </tr>
 <tr>
 <td>Default value</td>
-<td>RedHatDisplay</td>
+<td>JetBrains Mono NL SemiBold</td>
 </tr>
 <tr>
 <td>Possible values</td>
@@ -2815,7 +2815,7 @@ File in `backgrounds/`
 </tr>
 <tr>
 <td>Default value</td>
-<td>RedHatDisplay</td>
+<td>JetBrains Mono NL SemiBold</td>
 </tr>
 <tr>
 <td>Possible values</td>
@@ -3425,7 +3425,7 @@ File in `backgrounds/`
 </tr>
 <tr>
 <td>Default value</td>
-<td>RedHatDisplay</td>
+<td>JetBrains Mono NL SemiBold</td>
 </tr>
 <tr>
 <td>Possible values</td>
@@ -3605,7 +3605,7 @@ File in `backgrounds/`
 </tr>
 <tr>
 <td>Default value</td>
-<td>RedHatDisplay</td>
+<td>JetBrains Mono NL SemiBold</td>
 </tr>
 <tr>
 <td>Possible values</td>
@@ -4225,7 +4225,7 @@ File in `icons/`
 </tr>
 <tr>
 <td>Default value</td>
-<td>RedHatDisplay</td>
+<td>JetBrains Mono NL SemiBold</td>
 </tr>
 <tr>
 <td>Possible values</td>
@@ -4339,7 +4339,7 @@ File in `icons/`
 </tr>
 <tr>
 <td>Default value</td>
-<td>RedHatDisplay</td>
+<td>JetBrains Mono NL SemiBold</td>
 </tr>
 <tr>
 <td>Possible values</td>
@@ -4497,7 +4497,7 @@ File in `icons/`
 </tr>
 <tr>
 <td>Default value</td>
-<td>RedHatDisplay</td>
+<td>JetBrains Mono NL SemiBold</td>
 </tr>
 <tr>
 <td>Possible values</td>
@@ -4809,7 +4809,7 @@ File in `icons/`
 </tr>
 <tr>
 <td>Default value</td>
-<td>RedHatDisplay</td>
+<td>JetBrains Mono NL SemiBold</td>
 </tr>
 <tr>
 <td>Possible values</td>
@@ -5099,7 +5099,7 @@ File in `icons/`
 </tr>
 <tr>
 <td>Default value</td>
-<td>RedHatDisplay</td>
+<td>JetBrains Mono NL SemiBold</td>
 </tr>
 <tr>
 <td>Possible values</td>
@@ -6861,7 +6861,7 @@ File in `icons/`
 </tr>
 <tr>
 <td>Default value</td>
-<td>RedHatDisplay</td>
+<td>JetBrains Mono NL SemiBold</td>
 </tr>
 <tr>
 <td>Possible values</td>

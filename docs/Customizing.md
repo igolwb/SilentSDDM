@@ -70,7 +70,7 @@ Categories are defined between `[brackets]`, followed by their respective option
 [LockScreen.Date]
 display = true
 format = "dddd, MMMM dd, yyyy"
-font-family = "RedHatDisplay"
+font-family = "JetBrains Mono NL SemiBold"
 font-size = 14
 font-weight = 600
 color = "#FFFFFF"
