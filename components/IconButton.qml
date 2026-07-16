@@ -16,7 +16,7 @@ Item {
     property color activeContentColor: "#FFFFFF"
     property string label: ""
     property bool showLabel: true
-    property string fontFamily: "JetBrains Mono NL SemiBold"
+    property string fontFamily: "RedHatDisplay"
     property int fontWeight: 400
     property int fontSize: 12
     property color backgroundColor: "#FFFFFF"
